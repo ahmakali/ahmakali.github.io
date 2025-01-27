@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /verify.html
 
 Sitemap: https://soft-algo.online/sitemap.xml
